@@ -17,8 +17,8 @@ class Application {
         int add = calc.add(4,6);
         System.out.println(add);
 
-        int subtract = calc.subtract(45, 65);
+        int subtract = calc.subtract(80, 200);
         System.out.println(subtract);
-
+fffffffffffffffffff
     }
 }
